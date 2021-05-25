@@ -41,4 +41,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rocknegi&show_icons=true&theme=gotham" alt="Rohit Singh Negi" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rocknegi&show_icons=true&theme=nightowl" alt="Rohit Singh Negi" />
