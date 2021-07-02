@@ -39,6 +39,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ✅  Complete college with good grades 😜           
 <!-- TODO-IST:END -->
 
+  <img src="https://github.com/rocknegi/rocknegi/stat.svg" alt="WakaTime Activity"/>
+
+
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rocknegi&show_icons=true&theme=nightowl" alt="Rohit Singh Negi" />
