@@ -19,8 +19,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/rocknegi/rocknegi/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@rohit](https://twitter.com);
-- 📝 [Resume](https://drive.google.com)
+- 📫 How to reach me: [rohit](https://www.linkedin.com/in/rohitsinghnegi/);
+- 📝 [Resume](https://drive.google.com/file/d/1uqrqttcJyTQoyeHu6mUGef0n9_u3w-WP/view?usp=sharing)
 
 **Languages and Tools:**  
 
@@ -38,9 +38,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🌸  Survive this pandemic           
 ✅  Complete college with good grades 😜           
 <!-- TODO-IST:END -->
-
-  <img src="https://github.com/rocknegi/rocknegi/stat.svg" alt="WakaTime Activity"/>
-
 
 📈 My GitHub Stats
 
