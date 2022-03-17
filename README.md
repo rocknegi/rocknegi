@@ -44,12 +44,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 hrs 38 mins   ████████████████████████░   96.33 %
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   10 hrs 20 mins  ███████████████████▒░░░░░   76.90 %
+JSON         2 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+Arduino      54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
