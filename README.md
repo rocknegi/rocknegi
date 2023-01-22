@@ -47,10 +47,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-C++          3 hrs 8 mins    █████████████▒░░░░░░░░░░░   53.61 %
-JavaScript   1 hr 32 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-JSON         55 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
-C            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+C++          3 hrs 8 mins    █████████████░░░░░░░░░░░░   52.14 %
+JavaScript   1 hr 39 mins    ███████░░░░░░░░░░░░░░░░░░   27.53 %
+JSON         55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+C            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
