@@ -46,7 +46,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Vue.js       3 hrs 27 mins   ██████████████████████░░░   87.49 %
 TypeScript   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
 JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
