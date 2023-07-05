@@ -8,7 +8,7 @@
   <img align="left" alt="Rohit's LinkedIN" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rocknegi.rocknegi)
+![](https://komarev.com/ghpvc/?username=rocknegi&label=PROFILE+VIEWS)
 
 <br />
 
