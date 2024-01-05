@@ -47,8 +47,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 17 mins    █████████████████████▓░░░   86.39 %
-Vue.js       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
