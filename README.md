@@ -5,7 +5,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/rohitSinghNegi/">
-  <img align="left" alt="Rohit's LinkedIN" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rohit's LinkedIN" height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=rocknegi&label=PROFILE+VIEWS)
@@ -43,16 +43,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript   44 mins         █████████████████████████   99.87 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-```
+<div style="display:flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocknegi&langs_count=8&exclude_repo=Arduino,android_kernel_xiaomi_msm8956-1,android_device_xiaomi_kenzo,device_xiaomi_msm8956-common,android_device_xiaomi_kenzo-1,cos_device_xiaomi_kenzo,kernel_msm8956,aim_device_xiaomi_kenzo,android_kernel_xiaomi_dior,XOSP_device_xiaomi_msm8956-common-old,cos_device_xiaomi_msm8956-common-old,android_device_xiaomi_msm8956-common,&theme=nightowl" alt="Rohit Singh Negi" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rocknegi&show_icons=true&theme=nightowl&layout=compact" alt="Rohit Singh Negi"/>
+</div>
 
-<!--END_SECTION:waka-->
-
-
-<!--..-->
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rocknegi&show_icons=true&theme=nightowl" alt="Rohit Singh Negi" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocknegi&langs_count=8&exclude_repo=Arduino,android_kernel_xiaomi_msm8956-1,android_device_xiaomi_kenzo,device_xiaomi_msm8956-common,android_device_xiaomi_kenzo-1,cos_device_xiaomi_kenzo,kernel_msm8956,aim_device_xiaomi_kenzo,android_kernel_xiaomi_dior,XOSP_device_xiaomi_msm8956-common-old,cos_device_xiaomi_msm8956-common-old,android_device_xiaomi_msm8956-common,&theme=nightowl" alt="Rohit Singh Negi" />
-  
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rocknegi&show_icons=true&theme=nightowl&show=prs_merged,prs_merged_percentage" alt="Rohit Singh Negi" />
