@@ -40,9 +40,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- TODO-IST:END -->
 
 📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rocknegi&show_icons=true&theme=nightowl" alt="Rohit Singh Negi" />
-
 ### Coding Stats
 <!--START_SECTION:waka-->
 
@@ -55,3 +52,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 
 <!--..-->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rocknegi&show_icons=true&theme=nightowl" alt="Rohit Singh Negi" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocknegi&langs_count=8&exclude_repo=Arduino,android_kernel_xiaomi_msm8956-1,android_device_xiaomi_kenzo,device_xiaomi_msm8956-common,android_device_xiaomi_kenzo-1,cos_device_xiaomi_kenzo,kernel_msm8956,aim_device_xiaomi_kenzo,android_kernel_xiaomi_dior,XOSP_device_xiaomi_msm8956-common-old,cos_device_xiaomi_msm8956-common-old,android_device_xiaomi_msm8956-common,&theme=nightowl" alt="Rohit Singh Negi" />
+  
+
